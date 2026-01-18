@@ -16,6 +16,12 @@ int main()
 }
 ```
 
+- [ ] Add a README file
+- [ ] Update my portfolio
+- [ ] Activate my linkedin
+
 header testing for markdown language
 testing image adding
 Testing code inclusion in markdown
+Testing task list inclusion
+
